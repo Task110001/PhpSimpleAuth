@@ -15,6 +15,6 @@
     <title>Document</title>
 </head>
     <body>
-        
+        <h1>you need to clear the cookies to exit.</h1>
     </body>
 </html>
