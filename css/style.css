@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: azure;
+}
+
+.login__menu {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.login__menu label {
+    padding-top: 10px;
+    position: absolute;
+}
+
+.login__menu input, button {
+    margin: 0 auto;
+    display: table;
+    width: 250px;
+    height: 40px;
+    margin-top: 30px;
+}
